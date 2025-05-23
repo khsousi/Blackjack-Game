@@ -113,6 +113,7 @@ function newCard() {
   }
 }
 
+
 // Get a random card
 function getRandomCard() {
   let randomIndex = Math.floor(Math.random() * randomCards.length);
@@ -122,5 +123,3 @@ function getRandomCard() {
     return 10;
   }else {return randomCards[randomIndex]}
 }
-
-
