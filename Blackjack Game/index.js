@@ -1,6 +1,6 @@
 // Blackjack game
 // Player Object
-let player = {
+let player = { 
   name: "",
   chips: 100
 }
