@@ -2,7 +2,7 @@
 // Player Object 
 let player = { 
   name: "", 
-  chips: 100
+  chips: 100 
 }
   
 // Variables  
