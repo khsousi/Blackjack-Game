@@ -16,7 +16,7 @@ let isAlive;
 let score = 0;
 let message = "";
 let trys = 0;
-
+ 
 // DOM elements
 const startEl = document.querySelector(".start-btn");
 const messageEl = document.getElementById("message-el");
