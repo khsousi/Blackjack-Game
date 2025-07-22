@@ -11,7 +11,7 @@ let firstCard;
 let secondCard;
 let cards = [];
 let sum = 0;
-let hasBlackJack; 
+let hasBlackJack;  
 let isAlive;
 let score = 0;
 let message = "";
